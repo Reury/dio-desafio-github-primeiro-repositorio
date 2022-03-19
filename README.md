@@ -6,4 +6,4 @@ entrega do desafio de projeto  sobre git/github
 #
 - [Meu GitHub](https://github.com/Reury)
 #
--instragram [@Reuryar](https://www.instagram.com/reuryar/)
+- Instragram [@Reuryar](https://www.instagram.com/reuryar/)
